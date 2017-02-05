@@ -1,0 +1,85 @@
+.jumbotron {
+	background-image: url("../img/landscape.jpg");
+	background-size: cover;
+}
+
+/* Contact Me */
+.pre {
+	width: 80%;
+   	margin: 0 auto;
+}
+
+/*Typography*/
+h1,
+h2,
+h3 {
+ font-family: Futura, Helvetica, Arial, sans-serif;
+}
+
+#about_me {
+   width: 80%;
+   margin: 0 auto;
+}
+
+.pre p {
+	text-align: center;
+	font-size: .em;
+	font-weight: 100;
+}
+
+.linked p{
+	font-size: .em;
+}
+
+/* About */
+* { box-sizing: border-box; }
+
+.header h1 {
+   text-align: center;
+}
+
+.image {
+     display: inline-block;
+     float: left;
+}
+
+.column {
+     display: inline-block;
+     float: left;
+     width:; 30%;
+}
+
+.main-text {
+       clear: both;
+}
+
+#skill-list{
+	margin: 50px;
+}
+
+/*Typography*/
+h1,
+h2,
+h3 {
+ font-family: Futura, Helvetica, Arial, sans-serif;
+}
+
+.intro p {
+     font-family: Futura, Helvetica, Arial, sans-serif;
+     font-size: .em;
+     font-weight: 100;
+     webkit-margin-before: 0;
+}
+
+.skills h3{
+	text-align: center;
+	text-transform: uppercase;
+	background-color: #5AD4C2;
+	color: xFFF;
+}
+
+body {
+     background-color: #fffeea;
+     color: #34495e;
+} 
+

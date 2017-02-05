@@ -1,0 +1,32 @@
+/*.jumbotron {
+	background-image: url("../img/corgi_leap.jpg");
+	background-size: cover;
+	height: 80%;
+	margin: 0 auto;
+}
+
+.pre {
+	width: 80%;
+   	margin: 0 auto;
+}
+
+.container {
+
+}
+
+Typography
+h1,
+h2,
+h3 {
+ font-family: Futura, Helvetica, Arial, sans-serif;
+}
+
+.pre p {
+	text-align: center;
+	font-size: .em;
+	font-weight: 100;
+}
+
+.linked p{
+	font-size: .em;
+}*/
