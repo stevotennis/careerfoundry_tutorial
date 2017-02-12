@@ -31,33 +31,57 @@ h3 {
 	font-size: .em;
 }
 
-/* About */
+.anchor {
+ padding-top: 50px;
+}
+
+/**
+ ** About 
+ **        */
 * { box-sizing: border-box; }
+
+.container_about {
+   width: 80%;
+   margin: 0 auto;
+}
 
 .header h1 {
    text-align: center;
 }
 
 .image {
-     display: inline-block;
-     float: left;
+	display: inline-block;
+    float: left;
+    width: 33%;
 }
 
 .column {
-     display: inline-block;
-     float: left;
-     width:; 30%;
+    display: inline-block;
+    float: left;
+    width: 33%;
+}
+
+.intro {
+    display: inline-block;
+    float: left;
+    width: 33%;
+}
+
+.skills {
+    display: inline-block;
+    float: left;
+    width: 33%;
 }
 
 .main-text {
-       clear: both;
+	clear: both;
 }
 
 #skill-list{
 	margin: 50px;
 }
 
-/*Typography*/
+
 h1,
 h2,
 h3 {
@@ -76,10 +100,29 @@ h3 {
 	text-transform: uppercase;
 	background-color: #5AD4C2;
 	color: xFFF;
+	margin: 0 0;
+}
+
+h2 {
+	font-size: 50px;
 }
 
 body {
      background-color: #fffeea;
      color: #34495e;
-} 
+}
 
+/** 
+ **  Contact Me Page
+ **                  */
+.jumbotron-contact {
+	background-image: url("../img/corgi_leap.jpg");
+	background-size: cover;
+	height: 80%;
+	margin: 0 auto;
+}
+
+.pre {
+	width: 80%;
+   	margin: 0 auto;
+}
